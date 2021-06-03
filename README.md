@@ -40,3 +40,4 @@ One of my favorite vtubers, a Dragon coming from USDA (United States of Dragon A
 * Genki Minamoto
 * Gawr Gura
 * バーチャルおばあちゃん
+* Mori Calliope
