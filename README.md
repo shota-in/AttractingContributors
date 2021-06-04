@@ -14,6 +14,7 @@ To complete the assignment, please do the following:
 2. Announce the new project and try to attract other members.
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
+hhughgyug
 
 # My Project
 Goal : I want contributors to help me list some singers.
