@@ -24,4 +24,6 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 1. AllSimples
 2. 小三元
 3. 一気通貫
-4. 嶺上開花
+4. 混一色
+5. 対々和
+6. 嶺上開花
