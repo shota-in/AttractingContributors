@@ -30,3 +30,4 @@ Please tell me your favorite music.
 8. はじまりの合図 / 神宿
 9. Yesterday Once More / Carpenters
 10.龙卷风 /邓紫棋
+11. ワビ・サビ・ワサビ / MAN WITH A MISSION
