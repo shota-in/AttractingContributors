@@ -25,5 +25,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 2. 小三元
 3. 一気通貫
 4. 混一色
-5. 
----
+5. 対々和
